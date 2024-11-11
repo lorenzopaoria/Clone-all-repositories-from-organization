@@ -1,5 +1,3 @@
-Here's the content in Markdown format:
-
 # Clone All GitHub Repositories from an Organization
 
 This Python script automates the cloning of all repositories within a specified GitHub organization. With the help of a GitHub personal access token, the script fetches and clones every repository accessible to the token, creating a local folder with the name of the organization and saving each repository within it.
